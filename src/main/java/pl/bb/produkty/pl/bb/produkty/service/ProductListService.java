@@ -1,6 +1,6 @@
 package pl.bb.produkty.pl.bb.produkty.service;
 
-import pl.bb.produkty.Product;
+import pl.bb.produkty.pl.bb.produkty.Product;
 
 import java.util.ArrayList;
 import java.util.List;

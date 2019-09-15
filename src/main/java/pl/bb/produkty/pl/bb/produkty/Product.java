@@ -1,4 +1,4 @@
-package pl.bb.produkty;
+package pl.bb.produkty.pl.bb.produkty;
 
 public class Product {
     private String name;
