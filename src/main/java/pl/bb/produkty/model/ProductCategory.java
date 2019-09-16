@@ -1,4 +1,4 @@
-package pl.bb.produkty.pl.bb.produkty.modul;
+package pl.bb.produkty.model;
 
 public enum ProductCategory {
     ARTGOSPDOMOWEGO, ARTSPOZYWCZE, INNE

@@ -1,4 +1,4 @@
-package pl.bb.produkty.pl.bb.produkty.modul;
+package pl.bb.produkty.model;
 
 public class Product {
     private String name;
@@ -37,6 +37,6 @@ public class Product {
 
     @Override
     public String toString() {
-        return  name + " " + price + " " + category;
+        return name + " " + price + " " + category;
     }
 }
